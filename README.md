@@ -2,5 +2,5 @@
 
 ## Tech stack used:
 
-**_Frontend_**: ReactJS, tailwind, Vite.
-**_Backend_**: HonoJS, Prisma, Postgresql, Zod, Cloudflare workers for serverless backend.
+**Frontend**: ReactJS, tailwind, Vite.
+**Backend**: HonoJS, Prisma, Postgresql, Zod, Cloudflare workers for serverless backend.
